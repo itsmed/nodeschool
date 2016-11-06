@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/itsmed/nodeschool/issues"
   },
-  "homepage": "https://github.com/itsmed/nodeschool#readme"
+  "homepage": "https://github.com/itsmed/nodeschool#readme",
+  "devDependencies": {
+    "@types/node": "^6.0.46"
+  }
 }
