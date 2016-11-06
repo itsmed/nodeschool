@@ -1,0 +1,21 @@
+{
+  "name": "nodeschool",
+  "version": "1.0.0",
+  "description": "These are my soultions for the <a href=\"https://nodeschool.io/#workshopper-list\">NodeSchool workshops</a>.",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmed/nodeschool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsmed/nodeschool/issues"
+  },
+  "homepage": "https://github.com/itsmed/nodeschool#readme"
+}
