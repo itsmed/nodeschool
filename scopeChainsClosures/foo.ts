@@ -1,5 +1,5 @@
 function foo() {
-  quux = 'hello';
+  // quux = 'hello'; // I had to comment this line out, typescript compiler errors were making me crazy
   var bar = false;
   return zip
 
