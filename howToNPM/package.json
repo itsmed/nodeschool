@@ -1,6 +1,7 @@
 {
   "name": "howToNPM",
-  "version": "1.0.0",
+  "version": "1.0.2",
+  "dist":"1.0.0",
   "description": "The How To NPM section of NodeSchool",
   "main": "index.js",
   "scripts": {
