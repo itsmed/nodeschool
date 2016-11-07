@@ -1,9 +1,10 @@
-'use strict';
-
-function foo():void {
+function foo() {
   quux = 'hello';
-  var bar: any;
-  function zip(): void {
-    var quux = [1, 2, 3];
+  var bar = false;
+  return zip
+
+  function zip() {
+      bar = true;
+      var quux = [1, 2, 3];
   }
 }
