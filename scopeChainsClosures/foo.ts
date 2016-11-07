@@ -1,8 +1,9 @@
 'use strict';
 
 function foo():void {
+  quux = 'hello';
   var bar: any;
   function zip(): void {
-    var quux: any;
+    var quux = [1, 2, 3];
   }
 }
